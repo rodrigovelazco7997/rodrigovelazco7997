@@ -1,16 +1,19 @@
-### Hi there 👋
+# Me presento, soy Rodrigo! 💪
+Full-stack developer
 
-<!--
-**rodrigovelazco7997/rodrigovelazco7997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cuento con conocimientos que abarcan **HTML,CSS,Javascript(React-Js, Redux, Node Js, Express) y bases de datos SQL**,entre otros. 
+Actualmente me encuentro aprendiendo a trabajar con: **TypeScrypt, Supabase,** librerias de diseño UI **(Ant Design UI)**, 🧠
+y perfeccionando los conocimientos nombrados previamente.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Adjunto mi e-mail y LinkedIn para mayor información y por un posible contacto!   ✉️
+
+Saludos! ✋
+
+E-mail: rodrigo.v.7997@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/rodrigo-velazco/
+
+
+
+
