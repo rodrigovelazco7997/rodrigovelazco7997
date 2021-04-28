@@ -10,6 +10,11 @@ y perfeccionando los conocimientos nombrados previamente.
 
 Para mas informacion adjunto en la descripción de mi perfil adjunto mi e-mail y mi LinkedIn ✉️
 
+
+E-mail: rodrigo.v.7997@gmail.com 
+
+LinkedIn: https://www.linkedin.com/in/rodrigo-velazco/
+
 ¡Saludos! :
 
 
