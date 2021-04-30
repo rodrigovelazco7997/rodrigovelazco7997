@@ -8,14 +8,14 @@ Cuento con conocimientos que abarcan **HTML,CSS,Javascript(React-Js, Redux, Node
 Actualmente me encuentro aprendiendo a trabajar con: **TypeScrypt, Supabase,** librerias de diseño UI **(Ant Design UI)**, 💻
 y perfeccionando los conocimientos nombrados previamente.
 
-Para mas informacion adjunto en la descripción de mi perfil adjunto mi e-mail y mi LinkedIn ✉️
+Para mas informacion adjunto mi e-mail y mi LinkedIn ✉️
 
 
 E-mail: rodrigo.v.7997@gmail.com 
 
 LinkedIn: https://www.linkedin.com/in/rodrigo-velazco/
 
-¡Saludos! :
+¡Saludos! ✋
 
 
 
